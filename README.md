@@ -1,5 +1,5 @@
 # MNIST
-The primary objective of this assignment is to develop and apply machine learning models to solve two classification tasks:
+The primary objective of this assignment is to develop and apply machine learning models to solve MNIST classification task:
 
 A multi-label image-based digit classification.
 These tasks are crucial in the field of machine learning, as they demonstrate the versatility of machine learning techniques in handling different types of data and solving real-world problems across various domains, such as finance, healthcare and computer vision.
